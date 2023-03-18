@@ -1,10 +1,15 @@
 #include <stdio.h>
 /**
- * main -A programme that prints a line with put function
- * Return: 0 (success)
- */
-int main()
+*main - Entry point
+*
+*writing to a standard error
+*
+*Return: Always 0
+*
+*/
+int main(void)
 {
-puts("/"Programming is like building a multilingual puzzle/n");
+	puts("\"Programming is like building a multilingual puzzle\n");
+
 return (0);
 }
