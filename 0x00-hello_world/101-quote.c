@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-  *main - A program that prints a line
+  *main -Program that prints a line
   *Return (1)
   */
 int main(void)
