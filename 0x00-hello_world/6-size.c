@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  *main - A program that prints the size of varius computer size
+ *main - A program that prints the size of varius computer size
   *Return (0)
   */
 int main(void)
