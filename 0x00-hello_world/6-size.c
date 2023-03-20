@@ -4,7 +4,6 @@
 *main - A program that prints the size of line.
 *
 *Return: Always 0
- (0)
 */
 int main(void)
 {
