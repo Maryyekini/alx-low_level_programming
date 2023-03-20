@@ -1,5 +1,4 @@
 #include <stdio.h>
-i
 #include <unistd.h>
 /**
   *main -Program that prints a line
