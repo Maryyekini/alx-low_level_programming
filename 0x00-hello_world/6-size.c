@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
 *main - A program that prints the size of line.
 *
-*Return (0)
+*Return: Always 0
+ (0)
 */
 int main(void)
 {
