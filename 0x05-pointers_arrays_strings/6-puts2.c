@@ -6,7 +6,7 @@
   *Return: print
   */
 
-void puts2:(char *str)
+void puts2(char *str)
 {
 	int logi = 0;
 	int t = 0;
