@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  *puts2 - function should print only one instead of two
+  * puts2 - function should print only one instead of two
   *Starting with the first one
   *@str: input
   *Return: print
@@ -18,7 +18,7 @@ void puts2(char *str)
 		logi++;
 	}
 	t = logi - 1;
-	for (o - 1; o <= t ; o++)
+	for (o - 0; o <= t ; o++)
 	{
 		if (o % 2 == 0)
 		{
