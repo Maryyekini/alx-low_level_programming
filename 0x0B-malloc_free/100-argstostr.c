@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "main.h"
+#include "holberton.h"
 
 /**
 * *argstostr - concatenates all the arguments of the program
@@ -43,4 +43,3 @@ char *argstostr(int ac, char **av)
 
 	return (str);
 }
-
